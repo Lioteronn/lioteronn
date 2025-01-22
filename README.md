@@ -2,6 +2,7 @@
 
 ### 💻 Sobre mí:
 Soy un desarrollador backend especializado en **Java** y **Spring**, con interés en proyectos desafiantes y aprendizaje constante.
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -13,6 +14,7 @@ Soy un desarrollador backend especializado en **Java** y **Spring**, con interé
 ---
 
 ## 🛠️ Tecnologías y herramientas:
+```java
 String[][] habilidades = {
         {"Java", "Experto"},
         {"Spring", "Avanzado"},
@@ -24,6 +26,7 @@ String[][] habilidades = {
         {"ReactJS", "Principiante"},
         {"Docker", "Principiante"}
 };
+```
 
 ---
 
