@@ -1,11 +1,12 @@
 # 👋 ¡Hola! Soy Alejandro :)
 
 ### 💻 Sobre mí:
-Soy un desarrollador backend especializado en **Java** y **Spring**, con interés en proyectos desafiantes y aprendizaje constante.
+Soy un desarrollador backend especializado en **Python** y **Django**, con interés en proyectos desafiantes y aprendizaje constante.
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -16,15 +17,16 @@ Soy un desarrollador backend especializado en **Java** y **Spring**, con interé
 ## 🛠️ Tecnologías y herramientas:
 ```java
 String[][] habilidades = {
+        {"Python", "Experto"},
+        {"Django", "Experto"},
         {"Java", "Experto"},
         {"Spring", "Avanzado"},
         {"SQL", "Avanzado"},
-        {"Python", "Intermedio"},
         {"HTML", "Intermedio"},
         {"CSS", "Intermedio"},
         {"JavaScript", "Principiante"},
         {"ReactJS", "Principiante"},
-        {"Docker", "Principiante"}
+        {"Docker", "Intermedio"}
 };
 ```
 
@@ -42,5 +44,4 @@ String[][] habilidades = {
 ---
 
 ## 🌍 Encuéntrame en:
-- 💼 [LinkedIn](https://www.linkedin.com/in/alejandro-l%C3%B3pez-p%C3%A9rez-7b587625a/)
 - ✉️ [Correo](mailto:alex.perez.informatica@gmail.com)
